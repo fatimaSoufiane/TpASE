@@ -1,6 +1,5 @@
 CC=gcc
 CFLAGS=-m32 
-LDFLAGS=
 EXEC= pingpong
 
 
